@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulum 6</title>
+        <author>Petrus Hispanus</author>
+        <editor>Alonso</editor>
+        <respStmt>
+          <name>Ana</name>
+          <resp>TEI Encoding</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulum 6</title>
+          <date when="2019-05-28">May 28, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-i3uy34">Alonso 1957</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-05-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+
+      </div>
+    </front>
+    <body>
+      <div xml:id="a7y6tt-d1e68">
+        <head>Capitulum 6</head>
+        <p>Titulus huius capituli est de vita, idest de Deo qui est causa et vite eternalis et vite temporalis. Et omnia vita quocumque modo participantia ab illa habent unde vivunt. Est enim Deus in se vita et aliis prebens vitam non que ipse est set vitam que ab ipso est. Ipsa enim vita que in se vita est, sole divine persone participant, scilicet pater et filius et spiritus sanctus; alie vero creature dono illius vite non illa vita vivunt. Unde ad differentiam illius vite que donum vite est, dicitur Deus per se vita. Hec autem non est per se vita set ex alio vita, quia tantum effectus est vite, non causa vite.
+        </p>
+        <p>Siquidem opportunius, etc. usque ad illud: Ex ipsa vivificantur, etc. talis est sensus: Ea que in predicto tractatu diximus, opportunius quam potuimus, ennarravimus. Modo autem tractandum est quomodo Deus dicitur esse vita eterna. Ex qua est per se vita que a nullo alio habet esse. Et omnis vita que incipit esse, et a qua ad omnia quocunque modo viventia disseminatur, vivere secundum proprie-
+        tatem uniuscuiusque. Ex ipsa siquidem et propter ipsam sunt et subsistunt vita inmortalium angelorum et eorum inmortalitas et indestructibilitas sempiterni motus angelici. Propter quod et ipsi angeli et viventes sunt et dicuntur inmortales simpliciter per naturam. Et iterum dicuntur non inmortales, quia non a se ipsis habent quod inmortales sint et eternaliter vivant set ex Deo qui est causa vivificativa in se et omnis vite effectiva et contentiva in aliis. Et sicut diximus in existente, quod causale est ipsius esse per se, ita dicimus quod divina vita supervivens est vivificativa et substantificativa ipsius per se vite. Et omnis vita et omnis vivificativus motus ex ipso est. Et causa est super omnem vitam et est principium cuiuscumque vite. Et ex ipsa habent anime naturalem indestructibilitatem et ex ipsa habent vitam omnia animalia et plante secundum ultimum vite modum. Qua videlicet causa sublata vel vita, deficit omnis vita. Iuxta illud: Auferes spiritum eorum et deficient. Cum vero illa que defectu sue participationis infirmata fuerint et ad illam se convertunt, iterum animantur ab illa, ut patet in arboribus et plantis. Unde sequitur in psalmis: Emittes spiritum tuum et creabuntur etc. Ipsa etiam est que dat prius per se vite, idest eternitati, esse per se vitam. Demum omni vite particulari dat esse vitam secundum singularem propriam naturam. Animis autem celestibus dat inmaterialem et deiformem vel Deo conformem et invariabilem vitam idest inmortalitatem. Et hoc non per naturam set per gratiam. Vel dat inmortalitatem inmaterialem quo ad substantiam que est spiritualis non corporalis, deiformem quo ad intelligentiam que gustat divinam sapientiam, et invariabilem quo ad uniformem permanentiam. Item. Dat eis fortem et indeclinabilem et sempiternum motum, idest fortiter sine remissione et indeclinabiliter sine variatione et sempiterne sine intermissione moveri in Deum. Extenditur autem per bonitatis habundantiam ad dandam demonibus vitam. Vita enim illorum ab alia causa esse non habet nec ut sit vita nec permanentiam in vita. Set ex illa sola dat vivere hominibus qui conpositi sunt ex anima rationali et corpore. Quibus dat vitam angelice vite con-
+        formem. Et propter superhabundantem bonitatem nos a se per malitiam recedentes ad se ipsam convertit per penitentiam et revocat per iustitiam. Et quod benignius est, nos totos, idest animas et corpora, se promittit translaturam ad vitam eternam et inmortalitatem. Quod generaliter omnibus philosophis gentium visum est esse contrarium nature. Michi autem et tibi et ipsi veritati dignoscitur esse divinum et super naturam, idest super naturam autem dico quantum ad nos, non quantum ad Deum qui est vita et omnipotens. Cum enim ipse sit natura omnium vitarum maxime divinarum, ipsi nulla vita est preter naturam vel contra vel supra naturam. Unde longe expellantur a choro Ecclesie et specialiter ab anima tua, o Thimothee, assertiones stultitie Symonis de resurrectione corporum. Quibus contradicit resurrectioni corporum dicens quod sit extra naturam, contra quem multi sancti patres scripserunt. Et licet Symon putatus fuerit ab aliquibus sapiens in hoc set latuit eum quod bene sapientem non oportet propter iudicium sensuum exteriorum contradicere hiis que de occulta omnium causa recte sentiuntur, dicendo quod aliquid ei sit preter naturam cui nichil est contrarium.
+        </p>
+
+        <p>Ex ipsa vivificantur, etc. neque in finem capituli talis est sensus: Ex ipsa onmium causa vivificantur per sensum
+        et motum animalia omnia et circunflorent plante per motum crescendo et per succum vel humorem flores mittendo. Et sive dicas rationalem vitam ut in hominibus, sive sensibilem ut in animalibus, sive augmentabilem ut in arboribus, sive qualemcunque aliam vitam aut vite principium aut substantiam omnia ex ipso vivunt spiritualiter et vivificantur corporaliter. Que scilicet causa omnium est super omnem vitam causaliter. Et hec omnia in ipsa secundum causam, preextiterunt uniformiter, dum videlicet ipsarum rerum ydee in ea fuerunt ab eterno. Ipsa ergo omnium causa que est supervivens, vitam precedendo, et princeps vite vitam excellendo, et omnis vite causa vite principiando et generativa vite vite organum conponendo et vite adinpletiva vite perfectionem tribuendo et vite divisiva motum et sensum vite auferendo: et talis, inquam, causa omni vita, idest modo vivendi, laudanda est secundum copiosam fecunditatem omnium vitarum sicut largissima in suis vivificatis et contemplatione omnis vite conprehensa sicut pretiosior, et laudanda sicut virtuosior, et sicut non indigens ad sui perfectionem set potius superplena vita omnis plenitudinis vite continens rationem, per se vivens, quia ab alio non accepit vite participationem. Et sicut super omnem vitam vivificans, quia excedentem omnibus tribuit vivificationem. Et supervivens, quia omnis vite possidet dominationem. Et quomodo aliquis vitam superviventem et ineffabilem humanis verbis poterit laudare. Quasi dicat: Nullus.
+      </p>
+      </div>
+    </body>
+  </text>
+</TEI>

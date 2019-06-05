@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulum 8</title>
+        <author>Petrus Hispanus</author>
+        <editor>Alonso</editor>
+        <respStmt>
+          <name>Ana</name>
+          <resp>TEI Encoding</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulum 8</title>
+          <date when="2019-05-28">May 28, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-i3uy34">Alonso 1957</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-05-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+
+      </div>
+    </front>
+    <body>
+      <div xml:id="a7y6tt-d1e68">
+        <head>Capitulum 8</head>
+        <p>Titulus huius capituli est de virtute, iustitia, salvatione, liberatione et inequalitate. Ista omnia de Deo dicuntur in quantum ab ipso ad nos dirivantur. Dicitur enim Deus virtus, in quantum unumquodque in suo esse statuit. Dicitur iustitia, in quantum unicuique secundum dignitatem tribuit. Dicitur salvatio, in quantum propria cuiusque rei custodit. Dicitur liberatio, in quantum a contrariis defendit. Dicitur etiam inequalitas, quoniam minoritatis vel maioritatis non confundit ordinem set gubernat.
+        </p>
+        <p> Set quoniam divinam, etc. usque ad illud: Dicimus igitur, etc. talis est sensus: Quoniam divinam virtutem et supersapientem sapientiam theologi laudant sicut virtutem quia dat menti constantiam, sicut iustitiam quia dat cordi innocentiam, sicut salvationem quia purgat culpam, et sicut liberationem, quia tollit penam, et sicut inequalitatem, quia servat maioris et minoris meriti et premii quantitatem, reseremus et istas Dei nominationes, prout nobis est possibile. Quod autem divinitatis principalitas per excessum segregata sit ab omni virtute quocumque modo existente aut cogitabili,
+          non ignorant exercitati in sacris scripturis. Theologia enim sepe attribuit Deo dominationem etiam celestium virtutum. Cum ergo deitas segregata sit ab omni virtute, quomodo ipsam laudant theologi tanquam virtutem aut quomodo accipiemus nominationem virtutis secundum quod Deo attribuitur?
+         </p>
+
+        <p>Dicimus igitur, etc. usque ad illud: Ipsa igitur, etc. talis est sensus: Dicimus quod Deus est virtus, sicut prehabens ante omnem creaturam, et superhabens ultra omnem creaturam in se omnem virtutem, et sicut causa omnis virtutis et producens omnia per virtutem suam in se manentem inflexibilem et inmobilem et omnino infinitam, et sicut existens causa ipsius quod est esse virtutem, sive universalem sive particularem. Et sicut existens infinite virtutis non tantum ex eo quod producit omnem virtutem, set ex eo quod est super omnem per se ipsam virtutem essendo et superando et multipliciter adducendo existentibus virtutibus alias virtutes multas et quantumlibet perfecte virtutes nunquam tamen possunt hebetare
+        superinfinitam actionem virtutis divine que est virtutifica, idest faciens virtutem. Dicitur et Deus virtus eo quod virtus ipsius cuncta excedens ineffabilis sit et ignota et incogitabilis. Que propter habundantiam potentie confirmat infirmitatem et continet et fortiter tenet infinitas ipsius divine virtutis resonantias. Que videlicet inter cetera existentia sunt minorem et minimam habentia virtutem, secundum quod apparet in potentia rerum sensibilium, ut v. gratia splendidissimi radii solis perveniunt ad conspectum oculorum pene excecatorum. Et sonitus tonitrui percipitur auribus pene surdis. Oculus enim pene cecus nec obscurum videt lumen nec clarissimum. Et auris omnino surda nec leves sonos audit nec maximos.
+      </p>
+        <p>Ipsa igitur, etc. usque ad illud: Procedunt autem, etc. talis est sensus: Ipsa nempe distributio infinite virtutis Dei ad omnia existentia pervenit. Et nichil existentium est quod perfecte privetur qualibet virtute. Set omne existens habet aliquam virtutem aut intellectualem pure ut angeli aut rationalem ut homines mortales aut sensibilem ut bruta animalia aut vegetabilem ut plante aut substantialem saltem ut inanimata. Et si licet dicere, ipsum esse habet virtutem a supersubstantiali virtute ad hoc quod sit. Et ex ipsa divina virtute sunt deiformes virtutes ornatuum angelorum qui ex ipsa habent quod sunt intransmutabiliter et ab ipso acceperunt omnes motus suos intellectuales et inmortales et sempiternos. Et ipsam suam fortitudinem et non minorabile desiderium boni acceperunt ipsa divina virtute inmittente ipsis angelis posse quod possunt et
+         esse quod sunt et desiderare et semper esse et ipsum posse quod possunt semper desiderare.
+       </p>
+        <p></p>
+       <p>Recte igitur a nobis, etc. usque ad illud: Quoniam et apud, etc. talis est sensus: Rationabiliter et discrete a nobis determinatum est quoniam intelligentia de divinis pura et perspicax indiget perfectione animi. Inferior autem disciplina verborum convenit hiis qui maioribus donis sunt provecti. Tamen et in hoc nobis cavimus quod nunquam voluimus manum apponere ad exponendum ea que etiam plane dicta sunt a beato Ierotheo.
+       </p>
+       <p>Procedunt autem, etc. usque ad illud: Et quidem, etc. talis est sensus: Processus autem indeficientis virtutis post angelos perveniunt ad homines et ad animalia et plantas et ad naturam inanimatorum et unita confirmat ad mutuam amicitiam per conmunionem. Discreta vero firmat ad hoc quod singula secundum propriam rationem et diffinitionem sint inconfusa et inconmixta. Et salvat ordines et discretiones cuiuslibet rei ad bonum proprium. Et inmortales vitas angelicarum simplicitatum inmaculatas custodit. Et celestium luminarium substantias et ordines facit secundum naturam certos et invariabiles. Dat enim temporis circunvolutionibus posse esse et dis-
+          cernit eas per processus et congregat per restitutiones ad puncta ex quibus processerunt. Ipsa etiam divina virtus operatur inextinguibiles virtutes ignis et indeficientes aque influxiones et terminat aeriam fluiditatem. Et terminum firmiter stabilit sine exteriori corporeo fulcimento. Et terre nascentium propagationes uniformes naturaliter custodit. Et salvat mutuam elementorum armoniam et inconfusam et indivisibilem concretionem. Et continet conmunionem anime et corporis. Et sursummovet plantarum virtutes et nutritivas et augmentativas et inanimatorum et omnium substantiales virtutes sua fortitudine retinet, et indissolubilem universitatis permanentiam firmat. Et nature rationali ipsam deificationem donat prebens virtute hiis qui deificantur. Et omnino nichil existentium segregatum est a firmitate aut exclusum ab ambitu divine virtutis. Quod enim nullam penitus habet virtutem, nulla omnino est vel erit eius positio.
+        </p>
+       <p>Et quidem dicit, etc. usque ad illud: Nos autem, etc. talis est sensus: Quod dicit Helymas magus obiciens sancto
+ Paulo dicenti ad Tym. quia Deus se ipsum negare non potest: si Deus omnipotens est, quomodo aliquid non posse dicitur. Si igitur hanc eius obiectionem inpugno, timeo ne deridear tanquam puer in eo quod studeam dissolvere edificia infirma super arenam fundata. Et similiter per theologicam deliberationem videar inpugnare intentionem manifeste inpossibilem. Cum enim Deus veritas sit, negatio Dei est casus a veritate. Veritas autem est existens. Unde casus a veritate est casus ab existente. Si ergo Deus existens veritas negat se ipsum cadit ab existente quod est manifeste inpossibile. Hoc est ergo dicere Deum non posse se negare ipsum non posse cadere ab esse et a posse vel a dicere: quod Helymas non intelligens ymitatur inexpertos certaminum qui adversarios infirmos esse supponunt secundum suam opinionem. Et quasi contra illos adhuc absentes pugnam audaciter simulant et variis plagis aerem percutientes confidenter arbitrantur se iam ipsos adversarios expugnasse. Et propriam virtutem iactant adhuc ignorantes virtutes adversariorum.
+</p>
+       <p>Nos autem dicta, etc. usque ad illud: Iustitia autem rursus, etc. talis est sensus: Nos dicta beati Pauli verba secundum nostram possibilitatem coniectantes laudamus Deum sicut potentem, sicut omnipotentem, sicut beatum et solum potentem, sicut dominantem in sua potestate eterna, sicut ab existentibus excedentem vel potius superhabundantem et prehabentem omnia existentia secundum suam virtutem supersubstantialem, et copiosa effluxione largientem omnibus exis-
+       tentibus posse et esse secundum habundantiam sue virtutis omnia excedentis.
+     </p>
+       <p>Iustitia autem, etc. usque ad illud: Et si ista, etc. talis est sensus: Deus sicut iustitia laudatur, quia omnibus existentibus distribuit secundum dignitatem proprie existentie; et secundum proportionem; et pulchritudinem, idest secundum mensuram capacitatis et pulchrifice bonitatis; et secundum bonam ordinationem et ornatum, idest secundum intentionem et gradum; et partitur distributiones et gradus unicuique, idest secundum quod sibi dictante divina iustitia diffinitum est. Et est causa proprie operationis singulorum. Nam divina iustitia omnia ordinat in gradu existentium et terminat in virtute et actu. Et singula singulis inmixta salvat in substantia et inconfusa in virtute. Et omnibus existentibus, secundum quod cuique convenit, secundum dignitatem a Deo supervenientem tribuit.
+       </p>
+       <p>Et si ista, etc. usque ad illud: Oportet autem, etc. talis est sensus: Cum ista recte dicta sint, quicumque divine iustitie detrahunt, propriam insipientiam ignorant, et propriam iustitiam manifeste condempnant. Quales sunt qui dicunt Deum debuisse eos qui mortales sunt, fecisse inmortales, et eos qui inperfecti sunt, fecisse perfectos, et hiis qui habent liberum arbitrium eligendi bona et mala, indixisse necessitatem faciendi bonum, sicut lapis violenter sursum fertur, et variabilibus contulisse invariabititatem et infirmis perfectam potentiam et temporibus eternitatem et naturaliter mobilibus inmobilitatem et temporalibus deliciis delectationem eternam. Et omnino qui sic desipiunt, singulis attribuenda arbitrantur que non ipsis set aliis conveniunt.
+       </p>
+       <p>Oportet autem, etc. usque ad illud: Si autem aliquis, etc. talis est sensus: Animadvertendum est quod o iustitia divina in hoc declaratur esse vera iustitia, quia ipsa singulis et omnibus propria distribuit, et cuiusque rei naturam salvat in proprio ordine, idest gradu, et virtute, idest habitu naturali vel actu. Si quis autem predictis obiciat quod non est iustitie sanctos homines dimittere non adiutos, quando a pravis cruciantur hominibus, respondemus quod si illi qui dicuntur sancti, terrena diligunt que ab hominibus carnalibus desiderantur, omnino deciderunt a divino amore. Nec digne vocantur sancti qui divinis donis vere amabilibus iniuriam facientes, eadem religiose reprobant propter temporalia que non sunt vere amabilia in eo quod nolunt ab ipsis separari, ut illa eterna possideant. Quod si vera bona amant, de ista separatione letari debent sicut letari solent illi qui consequuntur ea que desiderant. Electi siquidem tunc magis appropinquant virtutibus, quando secundum quod eis possibile est propter desiderium divinorum bonorum recedunt a passibili affectione temporalium valde fortiter certantes in adversitatibus temporalibus pro bono eterno consequendo. Unde divine iustitie proprie convenit virorum sanctorum constantiam non ennervare vel destruere per commoda temporalia, nec eis subtrahere gratiam adiuvantem, quando aliquis reprobus id ipsum facere conatur, set potius corroborare ipsos in pulchra et inflexibili statione sui certaminis, et, conpleto certamine, tribuere eis bona eterna secundum merita singulorum. Ipsa ergo divina iustitia recte etiam dicitur omnium salvatio in quantum salvat et custodit uniuscuiusque propriam substantiam munde ab aliis segregatam. Similiter et cuiuslibet rei ordinem. Et in singulis rebus munde existit causa proprie operationis, quasi dicat: Divina iustitia dicitur salvatio, quia cuiuslibet rei salvat substantiam a contrarii corruptione, et ordinem vel gradum a confusione et operationem a perturbatione.
+       </p>
+       <p>Si autem aliquis, etc. usque ad illud: Set de istis, etc. talis est sensus: Si deitas vocatur salvatio tanquam ex statu peiori ad meliorem cuncta salvatorie quocunque modo deducens, nos hanc laudem dignissime salvationis bene recipimus et rogabimus ipsum, ut diffiniat hanc primam salvationem omnium, que omnia in se ipsis instransmutabilia et fortia circa priora salvat, et universitatem custodit sine pugna. Et singula bellantia ornata propriis rationibus exterminat ab universitate et omnem inequalitatem et alienam operationem; et ordinat proportiones uniuscuiusque rei ne excidant a proprio ordine nec transeant ad alienum. Nec longe recedit ab intentione theologie qui ita laudaverit salvationem, sicut liberantem omnia existentia a casu propriorum bonorum per bonitatem salvatoriam omnium secundum quod natura cuiuslibet que salvatur, capax fuerit. Propter quod theologi vocant ipsam liberationem, in quantum non sinit vere existentia cadere ad non
+       esse, et in quantum peccantes et seductos et perfectionis bonorum suorum spiritualium passos detrimentum a passione pene et infirmitate et bonorum privatione liberat, minus habentes implens, et infirmitatem paterna pietate supportans, et lapsos suscitans a malo, immo statuens in bono, et bonum diminutione lesum adimplens, et ordinans et statuens, et inordinationem et inornatum reformando ordinans, et ornans et integritatem perficiens, et ab omnibus maculatis solvens.
+     </p>
+       <p>Nota quod Deus dicitur liberatio, primo quia naturaliter conservat in esse; secundo quia spiritaliter eos qui per culpam mortalem offendunt, intus et foris ad malum actum prolabuntur et perdunt gratiam et minus habiles fuerunt ad bonum nature et gratie, liberat a mentis vel conscientie infectione et temporis langore, et confert eis gratiam qua sunt privati et merita quibus erant vacuati, et paterno affectu reliquas infirmitates tolerat, et revocat totaliter a peccato, et insuper confirmat in sancto proposito, et lesionem in naturalibus factam sanat, et affectiones mentis ordinat ad Deum, et stabiles facit et inordinatos mores conponit, et gestus ornat, et de bono facit perfectum, et de cetero ab omni peccato reddit liberum.
+       </p>
+       <p>Set de istis, etc. usque in finem capituli talis est sensus: De istis et de iustitia dicta sufficiant, secundum quam omnium equalitas mensuratur, quia dat equaliter omnibus secundum dignitatem suam, et diffinitur, quia hoc facit ex ratione. Et omnis inequalitas que privat dictam equalitatem, a singulis exterminatur dictante divina iustitia. Si enim dicatur inequalitas ad differentiam unius totius ad aliquid totum, quando unum est maius altero, aut, quia totum est maius sua parte, habeat inequalitatem, salvat iustitia non permittens turbari universitatem conmixtione et unite mensure participatione
+       et custodit omnia existentia secundum speciem m qua unumquodque habet naturaliter esse.
+     </p>
+      </div>
+    </body>
+  </text>
+</TEI>

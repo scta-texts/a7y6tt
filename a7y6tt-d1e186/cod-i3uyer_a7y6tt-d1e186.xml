@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulum 10</title>
+        <author>Petrus Hispanus</author>
+        <editor>Alonso</editor>
+        <respStmt>
+          <name>Ana</name>
+          <resp>TEI Encoding</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulum 10</title>
+          <date when="2019-05-28">May 28, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-i3uy34">Alonso 1957</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-05-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+
+      </div>
+    </front>
+    <body>
+      <div xml:id="a7y6tt-d1e68">
+        <head>Capitulum 10</head>
+        <p>Titulus huius capituli est de omnipotente et vetere dierum et tempore et evo, in quantum de Deo dicuntur. Dicitur autem Deus omnipotens, quia omnia creata continet et possidet per potentiam. Dicitur vetus dierum, quia nunquam habuit initium. Dicitur tempus, quia varietatis actor est. Dicitur evum, quia intransmutabilis est. Vel dicitur omnipotens propter omnium creationem. Dicitur vetus dierum propter eternam perdurationem. Dicitur tempus propter rerum variationem. Iuxta illud: Et temporum das tempora ut alleves fastidium. Dicitur evum propter intransmutationem. Que enim sunt spiritualia conservat intransmutabilia.
+        </p>
+        <p> Vide autem, etc. usque ad illud: Dierum autem, etc. talis est sensus: Attendendum quod in sacra scriptura in
+           qua Deus vocatur multis nominibus, specialiter tamen eum vocat sicut omnipotentem, et sicut veterem dierum laudat. Omnipotens autem Deus dicitur eo quod sit sessio omnia continens per potentiam, et circumiens per providentiam, et collocans per iustitiam, et fundans per sapientiam, et circumstringens per omnipotentiam, omnia firma per essentiam in se ipso firmans per virtutem. Insuper ex se ipso tanquam ex radice omnia tenente per causam, omnia producit per efficientiam. Et omnia ad se ipsum tanquam ad plantationem omnitenentem convertens et continens omnia sicut omnitenens omnium sessio et firmans omnia contenta secundum unam continentiam omnia excedentem. Et non dimittit ipsa decidere a se ipsa nec mota destrui, sicut que a perfecta essentia processerunt. Dicitur autem divinitas omnia tenens per potentiam, et sine alterius adminuculo omnia gubernans, et omnibus principans, sicut existens omnibus desiderabilis propter suam bonitatem et interminabilis propter suam infinitatem, et supermittit omnibus, scilicet de altitudine sue sapientie, leges voluntarias, idest Deo beneplacitas, et creaturis acceptas naturales quasdam virtutes et observantias et dulces partus, idest suaves conceptiones et operationes divini et omnipotentis et indissolubilis amoris ipsius bonitatis. Divini dicit, quia spiritualissimus est; omnipotentis, quia virtuosissimus; indissolubilis, quia indeficientissimus.
+         et uniformiter existentia, ut sicut quando dicitur de angelis: Elevamini porte eternales, et alia similia.
+       </p>
+
+        <p>Dierum autem antiquus, etc. usque ad illud: Multotiens autem, etc. talis est sensus: Deus dicitur antiquus dierum eo quod ipse omnium evum, idest uniformis et perpetua mensuratio. Et est ante tempus, quia temporis creator, et ante dies, quia dierum distinctor. Et ante evum et tempora, quia ab ipso est et uniformis et variabilis mensura evi et temporis. Dicitur etiam Deus, prout eum decet, et tempus, quia ab eo creatur; et dies, quia ab eo illustratur. Et quarta pars anni, quia ab eo variatur; et evum quia ab eo continuatur, sicut existens secundum omnem motum intransmutabilis in essentia et inmobilis in voluntate et in eo quod semper movetur ad bonum agendum ita quod ipse motus sit eius actus. Manet tamen in se ipso sicut causa evi, temporis et dierum. Unde in misticis Dei apparitionibus quandoque dicitur canus, quandoque novus. Canities autem eius vel senectus significat ipsum a principio existentem. Novitas autem vel iuventus significat ipsum non gravari vel deficere senectute. Senectutis vero et iuventutis coniunctio significat ipsum a principio usque ad finem per omnia procedere. Iuxta illud Sapientie: Attingens a fine etc. vel secundum Ierotheum utrumque dictorum significat divinam principalitatem. Senectus quidem quasi primum in tempore; iuventus vero quasi primum in numero scilicet monadem, quia sicut iuventus est principium etatis, ita unitas est principium numeri. Et numeri qui sunt propinquiores unitati, sunt principaliores magis distantibus. Consideranda est autem natura temporis et evi ex testimoniis sacre scripture. In quibus eterna dicuntur non solum que penitus et simpliciter et per naturam ingenita sunt set etiam incorruptibilia et inmortalia et invariabilia
+        </p>
+        <p>Multotiens autem, etc. usque in finem capituli talis est sensus: In pluribus etiam scripture locis evi nominatione designantur antiquissima, ut in Psalmis: Cogitavi dies antiquos. Quandoque et tota temporis continentia. Secundum nos vero appellatur evum secundum quod evo proprium est antiquum esse vel invariabile vel totum totaliter metiri. Tempus autem dicitur quod est in generatione, idest in ingressu in essentiam, et corruptione, idest in egressu ab essentia et variatione, idest permutabilitate, dum est in essentia. Quandoque tamen
+          aliter accipitur. Unde et scriptura nos solum in hoc temporaliter terminatos dicit participaturos evo, quando consequemur incorruptibilitatem semper eodem modo se habentem. Quandoque dicitur in scripturis evum esse temporale et tempus esse eternum. Unde ad Roma. ultimo Temporibus eternis tactiti, quamvis in scriptura ostendantur ea que magis proprie sunt, ut mentes, esse in evo. Ea vero que in generatione sunt ut corpora magis proprie dicuntur in tempore. Non ergo simpliciter dicenda sunt esse coeterna Deo qui est ante evum, quecunque in scriptura dicuntur esse eterna. Sequendo autem sanctam scripturam secundum predictos modos intelligere convenit quod creata aliquando dicuntur eterna. Quia vero media sunt tempora que secundum aliquid participant evo et secundum aliquid tempore, Deus autem laudandus est sicut evum et sicut tempus tanquam causa omnis temporis et evi. Et antiquus dierum tanquam qui est ante tempus, scilicet per eternitatem et ante tempus per causalitatem et varians quatuor partes anni ad alleviandam fastidiositatem et tempora ad victualium necessitatem. Et rursus est existens ante secula in quantum ipse super evum et ante evum et regnum ipsius regnum omnium seculorum. Amen.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

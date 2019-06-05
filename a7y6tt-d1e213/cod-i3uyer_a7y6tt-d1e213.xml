@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulum 12</title>
+        <author>Petrus Hispanus</author>
+        <editor>Alonso</editor>
+        <respStmt>
+          <name>Ana</name>
+          <resp>TEI Encoding</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulum 12</title>
+          <date when="2019-05-28">May 28, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-i3uy34">Alonso 1957</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-05-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+
+      </div>
+    </front>
+    <body>
+      <div xml:id="a7y6tt-d1e68">
+        <head>Capitulum 12</head>
+        <p>Titulus huius capituli est de sancto sanctorum, rege regum, domino dominantium et deo deorum. Dicitur autem Deus sanctus sanctorum propter excedentem munditiam et munditie excellentiam. Dicitur rex regum propter precellentem magnificentiam et magnificentie preeminentiam. Dicitur dominus dominorum propter dominii omnipotentiam et omnipotentie dominium. Dicitur Deus deorum propter omnium providentiam
+        et provisionis omnividentiam. Verborum enim geminatio in Deo divine maiestatis in se et in creaturis est multiplicata laudatio. Nam in se Deus est laudabiliis sicut totius et summi boni habens fontalem copiam. In nobis vero sicut suorum bonorum dans omnibus proportionalem affluentiam.
+      </p>
+        <p>Set quoniam, etc. usque ad illud: Igitur sanctitas, etc. talis est sensus: De omnibus de quibus fuit necessarium dicere convenienter, determinavimus sicut potuit esse conveniens ei qui infinitis nominibus appellatur, videlicet sicut sanctus sanctorum et rex regnantium et regnator seculorum et in seculum et dominus dominorum et deus deorum. Primo autem nobis dicere instat quid sit per se bonitas, quid regnum, quid dominatio, quid deitas et quid intendit sacra scriptura per nominum replicationem, ut cum dicitur rex regum et dominus dominantium, etc.
+        </p>
+
+        <p>Igitur sanctitas, etc. usque ad illud: Quoniam autem, etc. talis est sensus: Sanctitas, ut nobis videtur, sic recte describitur: Sanctitas est munditia libera ab omni inmunditia et perfecta et omnino inmaculata. Dominatio autem est non tantum excessus inferiorum set universalis, perfecta et omnimoda possessio pulchrorum et bonorum et fortitudo vera et non valens decidere. Unde a tali dominio dicitur dominatio et dominans et dominus. Deitas autem dicitur providentia que videt omnia perfecta bonitate, omnia circumspiciens et continens et se ipsam implens et excedens omnia, que participant providentia. Hec autem, videlicet sanctitatem, dominationem et deitatem convenit laudare et similia in Deo, qui est causa omnium tanquam absoluta et simplifica et ab omnibus segregata. Et adiciendum est ipsam causam esse excedentem sanctitatem et dominationem et regnum superpositum et supersimplicissimam deitatem et ex ipsa simplici unitate collective subsistit et distribuitur omnis munda diligentia omnis clare munditie, omnis existentium ordinatio et ornatus, et inconvenientiam et inequalitatem et inconmensurationem exterminat, et delectabiliter producit ad bene ordinatam ydemptitatem et directionem ea que aput ipsam digna habentur ipsius participatione. Et ex ipsa est omnis omnium pulchrorum perfecta possessio, omnis bona
+        providentia contemplativa et contentiva electorum benigne tribuens se ipsam ad deificationem ad se conversorum.
+      </p>
+        <p>Quoniam autem, etc. usque in finem capituli talis est sensus: Quoniam Deus secundum unum excessum omnia excedentem causa est omnium, superplenus est omnibus bonis et pulchris. Et ideo dicitur sanctus sanctorum, rex regum et dominus dominantium, etc. secundum causam supermanantem et segregatam ab omnibus per excessum, ac si diceret: In quantum sanctissima et divinissima et dignissima existentia excellunt infimis et participata participationibus, in tantum collocatur super omnia et sanctissima et dignissima Deus, qui est saper omnia existentia, et qui est inparticipabilis causa omnium participantium. Sanctos autem et reges et dominos et deos vocant sancte scripture principaliores in singulis ordinibus, per quos sui inferiores accipientes divina munera multiplicant simplicitatem distributionis illorum munerum circa differentias sui ipsorum. Quorum unite simplicitatis participationes varie variis distribuendo et in ipso sibi retinendo pleniores varias inferiorum participationes congregant provisive et deiformiter ad propriam unitatem.
+          </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>
